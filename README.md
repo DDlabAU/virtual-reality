@@ -108,14 +108,14 @@ you can find both maps under VirtualRealityBP/Maps/ in your Content Browser.
 
 
 Under PREFERENCE EDITOR 
- 
+ ![image](https://user-images.githubusercontent.com/46813348/114928264-af356e80-9e32-11eb-8252-48bb85184fa1.png)
 
 
 Blueprint scripts examples 
 
 ![image](https://user-images.githubusercontent.com/46813348/114925004-d8ec9680-9e2e-11eb-8523-b3ea66e388fc.png)
 
-Under PREFERENCE EDITOR 
+
 
  
 https://docs.unrealengine.com/en-US/Resources/ContentExamples/Blueprints/index.html 
