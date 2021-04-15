@@ -106,7 +106,6 @@ Under PREFERENCE EDITOR
 
 Blueprint scripts examples 
 
-![image](https://user-images.githubusercontent.com/46813348/114923392-0e908000-9e2d-11eb-9f06-7a5eadc5850b.png)
 
  
 https://docs.unrealengine.com/en-US/Resources/ContentExamples/Blueprints/index.html 
@@ -118,6 +117,9 @@ The Blueprints Visual Scripting system in Unreal Engine is a complete gameplay s
 
 
 Optional plugins 
+
+![image](https://user-images.githubusercontent.com/46813348/114923392-0e908000-9e2d-11eb-9f06-7a5eadc5850b.png)
+
 
 
 How to install UE4Duino step by step 
