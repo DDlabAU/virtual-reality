@@ -72,6 +72,7 @@ STEP 6Connect VR steam   to PC
  
   >   NOW YOU CAN START 
 
+![image](https://user-images.githubusercontent.com/46813348/114925797-d6d70780-9e2f-11eb-9168-ab283f66842a.png)
 
 
 
