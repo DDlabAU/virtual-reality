@@ -165,7 +165,10 @@ Figure 17 where  to find other documentation
 Learn more 😊  
 
 
-Optional plugins 
+Optional plugins  
+
+![image](https://user-images.githubusercontent.com/46813348/114923392-0e908000-9e2d-11eb-9f06-7a5eadc5850b.png)
+
 Using Unreal engine it is possible to add different plug-ins to allow interact with different software and engine. 
 Examples are the plug in with Arduino that allow to create interaction control in the real world and in the virtual world 
 Or you can use Unreal.JS if you feel more confident to write a code in Javascript. 
