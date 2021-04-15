@@ -86,7 +86,8 @@ Create a 1st VR project in UNREAL ENGINE UE4
 
 Open new level 
 
- 
+ ![image](https://user-images.githubusercontent.com/46813348/114923250-e43ec280-9e2c-11eb-8495-ae568ebb42ff.png)
+
 
 you can find both maps under VirtualRealityBP/Maps/ in your Content Browser.   
 
