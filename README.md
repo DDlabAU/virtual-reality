@@ -32,6 +32,8 @@ What is VR with unreal engine > examples 😊
 
 Preparation SET UP  1st time 
 
+![image](https://user-images.githubusercontent.com/46813348/114923107-b5c0e780-9e2c-11eb-84a5-40ce431ddf85.png)
+
 1) Tool required   
 
 •	Room or a space  big enough to move 
