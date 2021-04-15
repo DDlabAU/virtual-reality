@@ -94,13 +94,16 @@ Open new level
 you can find both maps under VirtualRealityBP/Maps/ in your Content Browser.   
 
  
+ ![image](https://user-images.githubusercontent.com/46813348/114925536-88296d80-9e2f-11eb-8a0a-48424d1a30b6.png)
+
+ 
+ ![image](https://user-images.githubusercontent.com/46813348/114925477-72b44380-9e2f-11eb-8cfe-375095ad54b1.png)
+ 
+![image](https://user-images.githubusercontent.com/46813348/114925365-4d273a00-9e2f-11eb-8e1e-286ba1591831.png)
 
  
 
 
- 
-
- 
 
 
 Under PREFERENCE EDITOR 
@@ -109,6 +112,9 @@ Under PREFERENCE EDITOR
 
 Blueprint scripts examples 
 
+![image](https://user-images.githubusercontent.com/46813348/114925004-d8ec9680-9e2e-11eb-8523-b3ea66e388fc.png)
+
+Under PREFERENCE EDITOR 
 
  
 https://docs.unrealengine.com/en-US/Resources/ContentExamples/Blueprints/index.html 
