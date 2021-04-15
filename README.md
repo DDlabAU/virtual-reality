@@ -69,7 +69,9 @@ https://www.unrealengine.com/en-US/
 
 
 STEP 6Connect VR steam   to PC
- 
+
+ ![image](https://user-images.githubusercontent.com/46813348/114928939-79dd5080-9e33-11eb-8de3-94e358bb63ef.png)
+
   >   NOW YOU CAN START 
 
 ![image](https://user-images.githubusercontent.com/46813348/114925797-d6d70780-9e2f-11eb-9168-ab283f66842a.png)
