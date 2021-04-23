@@ -30,7 +30,7 @@ What is VR with unreal engine > examples 😊
  
 
 
-Preparation SET UP  1st time 
+# Preparation SET UP  1st time 
 
 ![image](https://user-images.githubusercontent.com/46813348/114923107-b5c0e780-9e2c-11eb-84a5-40ce431ddf85.png)
 
@@ -46,20 +46,20 @@ o	Connection cables
 
 If if the first time that you use VR in your pc /laptop . if not go to step  6 
 
- 2) Set up VIVE ROOM download setup vive from https://www.vive.com/sea/setup/   
+ # 2) Set up VIVE ROOM download setup vive from https://www.vive.com/sea/setup/   
  
 
-3 )Download steam vr      https://store.steampowered.com/app/250820/SteamVR/  
+# 3 )Download steam vr      https://store.steampowered.com/app/250820/SteamVR/  
 
 
 
 
 
-4)	Create an account of Steam  
+# 4)	Create an account of Steam  
 
  
 
-5 )Download Unreal engine      
+# 5 )Download Unreal engine      
 https://www.unrealengine.com/en-US/ 
  
 
@@ -68,7 +68,7 @@ https://www.unrealengine.com/en-US/
 
 
 
-STEP 6Connect VR steam   to PC
+# STEP 6Connect VR steam   to PC
 
  ![image](https://user-images.githubusercontent.com/46813348/114928939-79dd5080-9e33-11eb-8de3-94e358bb63ef.png)
 
@@ -81,7 +81,7 @@ STEP 6Connect VR steam   to PC
 
 
 
-Create a 1st VR project in UNREAL ENGINE UE4 
+# Create a 1st VR project in UNREAL ENGINE UE4 
 
 
  
@@ -113,7 +113,7 @@ Under PREFERENCE EDITOR
  ![image](https://user-images.githubusercontent.com/46813348/114928264-af356e80-9e32-11eb-8252-48bb85184fa1.png)
 
 
-Blueprint scripts examples 
+# Blueprint scripts examples 
 
 ![image](https://user-images.githubusercontent.com/46813348/114925004-d8ec9680-9e2e-11eb-8523-b3ea66e388fc.png)
 
@@ -128,11 +128,11 @@ The Blueprints Visual Scripting system in Unreal Engine is a complete gameplay s
  Learn more 😊  
 
 
-Optional plugins 
+# Optional plugins 
 
 ![image](https://user-images.githubusercontent.com/46813348/114923392-0e908000-9e2d-11eb-9f06-7a5eadc5850b.png)
 
 
 
-How to install UE4Duino step by step 
+# How to install UE4Duino step by step 
   https://www.youtube.com/watch?v=XvfG56fa_Lk 
