@@ -46,16 +46,13 @@ o	Connection cables
 
 If if the first time that you use VR in your pc /laptop . if not go to step  6 
 
- # 2) Set up VIVE ROOM download setup vive from https://www.vive.com/sea/setup/   
+  2) Set up VIVE ROOM download setup vive from https://www.vive.com/sea/setup/   
  
 
-# 3 )Download steam vr      https://store.steampowered.com/app/250820/SteamVR/  
+ 3 )Download steam vr      https://store.steampowered.com/app/250820/SteamVR/  
 
 
-
-
-
-# 4)	Create an account of Steam  
+ 4)	Create an account of Steam  
 
  
 
@@ -68,7 +65,7 @@ https://www.unrealengine.com/en-US/
 
 
 
-# STEP 6Connect VR steam   to PC
+STEP 6) Connect VR steam   to PC
 
  ![image](https://user-images.githubusercontent.com/46813348/114928939-79dd5080-9e33-11eb-8de3-94e358bb63ef.png)
 
