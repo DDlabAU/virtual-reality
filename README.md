@@ -1,8 +1,8 @@
 # VR-Guide-
-VR guide 
 
-Content 
-Contents
+
+         #Content 
+
 What is VR with unreal engine > examples 	2
 Preparation SET UP  1st time	3
 STEP 6Connect VR steam   to PC	5
@@ -103,10 +103,9 @@ you can find both maps under VirtualRealityBP/Maps/ in your Content Browser.
 
  
 
-
-
-
 Under PREFERENCE EDITOR 
+
+
  ![image](https://user-images.githubusercontent.com/46813348/114928264-af356e80-9e32-11eb-8252-48bb85184fa1.png)
 
 
