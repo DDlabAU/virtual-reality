@@ -1,133 +1,99 @@
-# VR-Guide-
+# VR Guide
+
+## Content 
+
+* [What is VR with unreal engine: examples](#what-is-vr-with-unreal-engine)
+* [Preparation](#preparation)
+* [Create your 1st VR project in UNREAL ENGINE 4](#create-your-1st-vr-project-in-unreal-engine-4) 	
+* [Blueprint scripts](#blueprint-scripts)
+* [Optional plugins](#optional-plugins)
 
 
-         #Content 
+## What is VR with unreal engine
 
-What is VR with unreal engine > examples 	2
-Preparation SET UP  1st time	3
-STEP 6Connect VR steam   to PC	5
-Create a new VR project in UNREAL ENGINE UE4	6
-Optional Install  UE4Duino	13
+1) Game and entertainment https://www.unrealengine.com/en-US/industry/games  
+2) Training  https://www.unrealengine.com/en-US/industry/training-simulation 
+3) Architecture https://www.unrealengine.com/en-US/architecture-solution 
+4) Transportation https://www.unrealengine.com/en-US/industry/automotive-transportation 
+5) Events https://www.unrealengine.com/en-US/industry/broadcast-live-events 
+6) Television and movies https://www.unrealengine.com/en-US/industry/film-television 
+7) More https://www.unrealengine.com/en-US/industry/more-uses 
+8) Modelling in VR and 3D printing   https://www.youtube.com/watch?v=PViW68-hbTM
+9) Interaction with arduino   https://www.youtube.com/watch?v=3xbV4-DH3hY&list=PLq7fFmlXXY73S0H5xFqpCDMy2IinmsYd4&index=46
+10) https://www.youtube.com/watch?v=TWjtE5kUqHA 
+11) from 3d scan to vr https://www.youtube.com/watch?v=mZcLKcyHWDs 
 
-
- 
-
-
-What is VR with unreal engine > examples 😊 
-
-1)	Game and entertainment https://www.unrealengine.com/en-US/industry/games  
-2)	Training  https://www.unrealengine.com/en-US/industry/training-simulation 
-3)	Architecture https://www.unrealengine.com/en-US/architecture-solution 
-4)	Transportation https://www.unrealengine.com/en-US/industry/automotive-transportation 
-5)	Events https://www.unrealengine.com/en-US/industry/broadcast-live-events 
-6)	Television and movies https://www.unrealengine.com/en-US/industry/film-television 
-7)	More https://www.unrealengine.com/en-US/industry/more-uses 
-8)	Modelling in VR and 3D printing   https://www.youtube.com/watch?v=PViW68-hbTM
-9)	Interaction with arduino   https://www.youtube.com/watch?v=3xbV4-DH3hY&list=PLq7fFmlXXY73S0H5xFqpCDMy2IinmsYd4&index=46
-10)	https://www.youtube.com/watch?v=TWjtE5kUqHA 
-11)	from 3d scan to vr https://www.youtube.com/watch?v=mZcLKcyHWDs 
-
- 
-
-
-# Preparation SET UP  1st time 
+## Preparation 
+Follow steps 1-6 if it is the first time you use VR on your machine. Otherwise skip to Step 6) Connect VR steam to PC
 
 ![image](https://user-images.githubusercontent.com/46813348/114923107-b5c0e780-9e2c-11eb-84a5-40ce431ddf85.png)
 
-1) Tool required   
-
-•	Room or a space  big enough to move 
-•	HTC Vive set  ( from DDlab ) 
-o	Visor
-o	Controllers 
-o	Sensors  
-o	Connection cables 
-•	Pc or laptop 
-
-If if the first time that you use VR in your pc /laptop . if not go to step  6 
-
-  2) Set up VIVE ROOM download setup vive from https://www.vive.com/sea/setup/   
- 
-
- 3 )Download steam vr      https://store.steampowered.com/app/250820/SteamVR/  
+#### Step 1) Tools required:
+* Room or a space big enough to move (you can book and use "glasburet")
+* HTC Vive set (from DDlab) 
+  * Visor
+  * Controllers 
+  * Sensors  
+  * Connection cables 
+* PC or laptop (You can use the vr-machine in glasburet) 
 
 
- 4)	Create an account of Steam  
-
- 
-
-# 5 )Download Unreal engine      
-https://www.unrealengine.com/en-US/ 
- 
+#### Step 2) Set up VIVE ROOM 
+Download setup vive from https://www.vive.com/sea/setup/   
 
 
+#### Step 3) Steam VR
+Download steam vr from https://store.steampowered.com/app/250820/SteamVR/  
 
 
+#### Step 4) Steam
+Create an account on Steam
 
 
-STEP 6) Connect VR steam   to PC
+#### Step 5) Unreal Engine 4
+Download Unreal Engine 4 from https://www.unrealengine.com/en-US/ 
+  
 
- ![image](https://user-images.githubusercontent.com/46813348/114928939-79dd5080-9e33-11eb-8de3-94e358bb63ef.png)
+#### Step 6) Connect VR steam to PC
 
-  >   NOW YOU CAN START 
+![image](https://user-images.githubusercontent.com/46813348/114928939-79dd5080-9e33-11eb-8de3-94e358bb63ef.png)
+
+Flowchart of the above steps: 
 
 ![image](https://user-images.githubusercontent.com/46813348/114925797-d6d70780-9e2f-11eb-9168-ab283f66842a.png)
 
-
-
-
-
-
-# Create a 1st VR project in UNREAL ENGINE UE4 
-
-
- 
-
-
- 
+## Create your 1st VR project in UNREAL ENGINE 4 
 
 Open new level 
 
- ![image](https://user-images.githubusercontent.com/46813348/114923250-e43ec280-9e2c-11eb-8495-ae568ebb42ff.png)
+![image](https://user-images.githubusercontent.com/46813348/114923250-e43ec280-9e2c-11eb-8495-ae568ebb42ff.png)
 
-
-you can find both maps under VirtualRealityBP/Maps/ in your Content Browser.   
-
+You can find both maps under VirtualRealityBP/Maps/ in your Content Browser.
  
- ![image](https://user-images.githubusercontent.com/46813348/114925536-88296d80-9e2f-11eb-8a0a-48424d1a30b6.png)
-
+![image](https://user-images.githubusercontent.com/46813348/114925536-88296d80-9e2f-11eb-8a0a-48424d1a30b6.png)
  
- ![image](https://user-images.githubusercontent.com/46813348/114925477-72b44380-9e2f-11eb-8cfe-375095ad54b1.png)
+![image](https://user-images.githubusercontent.com/46813348/114925477-72b44380-9e2f-11eb-8cfe-375095ad54b1.png)
  
 ![image](https://user-images.githubusercontent.com/46813348/114925365-4d273a00-9e2f-11eb-8e1e-286ba1591831.png)
 
- 
+Under PREFERENCE EDITOR, you check this setting >> (see picture)
 
-Under PREFERENCE EDITOR, you check this setting >>(see picture)
+![image](https://user-images.githubusercontent.com/46813348/114928264-af356e80-9e32-11eb-8252-48bb85184fa1.png)
 
- ![image](https://user-images.githubusercontent.com/46813348/114928264-af356e80-9e32-11eb-8252-48bb85184fa1.png)
-
-
-# Blueprint scripts examples 
+## Blueprint scripts 
 
 ![image](https://user-images.githubusercontent.com/46813348/114925004-d8ec9680-9e2e-11eb-8523-b3ea66e388fc.png)
-
-
-
  
 https://docs.unrealengine.com/en-US/Resources/ContentExamples/Blueprints/index.html 
 
-What is Blueprints scripts
-The Blueprints Visual Scripting system in Unreal Engine is a complete gameplay scripting system based on the concept of using a node-based interface to create gameplay elements from within Unreal Editor. As with many common scripting languages, it is used to define object-oriented (OO) classes or objects in the engine. As you use UE4, you'll often find that objects defined using Blueprint are colloquially referred to as just "Blueprints." 
- Blueprint-specific markup available in Unreal Engine's C++ implementation enables programmers to create baseline systems   
- Learn more 😊  
+### What is Blueprints scripts
+The Blueprints Visual Scripting system in Unreal Engine is a complete gameplay scripting system based on the concept of using a node-based interface to create gameplay elements from within Unreal Editor. As with many common scripting languages, it is used to define object-oriented (OO) classes or objects in the engine. As you use UE4, you'll often find that objects defined using Blueprint are colloquially referred to as just "Blueprints". 
+Blueprint-specific markup available in Unreal Engine's C++ implementation enables programmers to create baseline systems   
+Learn more 😊  
 
-
-# Optional plugins 
+## Optional plugins 
 
 ![image](https://user-images.githubusercontent.com/46813348/114923392-0e908000-9e2d-11eb-9f06-7a5eadc5850b.png)
 
-
-
-# How to install UE4Duino step by step 
-  https://www.youtube.com/watch?v=XvfG56fa_Lk 
+### How to install UE4Duino step by step 
+https://www.youtube.com/watch?v=XvfG56fa_Lk 
