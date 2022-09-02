@@ -38,7 +38,7 @@ Follow steps 1-6 if it is the first time you use VR on your machine. Otherwise s
 * PC or laptop (You can use the vr-machine in glasburet) 
 
 ###### Setting up equipment
-Set up the two sensores in their wall-mounted spots
+Set up the two sensores on their wall-mounted spots
 
 
 <img src="https://github.com/DDlabAU/VR-Guide-/blob/main/PICTURE%20VR/Picture%2022.jpg" width="400" height="400" /> <img src="https://github.com/DDlabAU/VR-Guide-/blob/main/PICTURE%20VR/picture%2021.jpg" width="400" height="400" />
@@ -46,8 +46,10 @@ Set up the two sensores in their wall-mounted spots
 
 #### Step 2) Set up VIVE ROOM 
 Download setup vive from https://www.vive.com/sea/setup/   
-Follow the guide to set up the room and the play boundaries
+Follow the guide to set up the room and the play boundaries.
 
+When the you are asked to put the cords into the computer, the HDMI and USB port needs to be in these posistions if you are using "glasburet". If they are placed correctly, the system will recognise them and accept the placement, during this part of the setup. 
+<img src="https://github.com/DDlabAU/VR-Guide-/blob/main/PICTURE%20VR/Picture%2020.png" width="400" height="400" />
 
 #### Step 3) Steam VR
 Download steam vr from https://store.steampowered.com/app/250820/SteamVR/  
