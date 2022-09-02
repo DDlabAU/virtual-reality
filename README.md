@@ -41,8 +41,7 @@ Follow steps 1-6 if it is the first time you use VR on your machine. Otherwise s
 Set up the two sensores in their wall-mounted spots
 
 
-<img src="https://github.com/DDlabAU/VR-Guide-/blob/main/PICTURE%20VR/Picture%2022.jpg" width="400" height="400" />
-<img src="https://github.com/DDlabAU/VR-Guide-/blob/main/PICTURE%20VR/picture%2021.jpg" width="400" height="400" />
+<img src="https://github.com/DDlabAU/VR-Guide-/blob/main/PICTURE%20VR/Picture%2022.jpg" width="400" height="400" /> <img src="https://github.com/DDlabAU/VR-Guide-/blob/main/PICTURE%20VR/picture%2021.jpg" width="400" height="400" />
 
 
 #### Step 2) Set up VIVE ROOM 
