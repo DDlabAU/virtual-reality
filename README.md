@@ -37,9 +37,14 @@ Follow steps 1-6 if it is the first time you use VR on your machine. Otherwise s
   * Connection cables 
 * PC or laptop (You can use the vr-machine in glasburet) 
 
+###### Setting up equipment
+Set up the two sensores in their wall-mounted spots
+
+![image](https://github.com/DDlabAU/VR-Guide-/blob/main/PICTURE%20VR/Picture%2022.jpg)
 
 #### Step 2) Set up VIVE ROOM 
 Download setup vive from https://www.vive.com/sea/setup/   
+Follow the guide to set up the room and the play boundaries
 
 
 #### Step 3) Steam VR
