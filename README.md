@@ -40,7 +40,7 @@ Follow steps 1-6 if it is the first time you use VR on your machine. Otherwise s
 ###### Setting up equipment
 Set up the two sensores in their wall-mounted spots
 
-![image](https://github.com/DDlabAU/VR-Guide-/blob/main/PICTURE%20VR/Picture%2022.jpg)
+![image](https://github.com/DDlabAU/VR-Guide-/blob/main/PICTURE%20VR/Picture%2022.jpg) width="200" height="300"
 
 #### Step 2) Set up VIVE ROOM 
 Download setup vive from https://www.vive.com/sea/setup/   
