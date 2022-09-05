@@ -76,12 +76,30 @@ Flowchart of the above steps:
 ## Choosing Unreal engine or Unity
 Choosing whether to use Unreal engine or Unity is a heavily debated subject, but is in the end up to the individual user. The following is a list of reasons to look at one or the other, based on sources linked futher down.  
 
+### 2D or 3D
+First of, both engines are good at what they do and is always best to use what seems easiest for you, but they do have some different implent areas. 
+Unreal is good at 3D and and high visual games, and function great for VR for this reason.
+Unity are good at making mobile app and 2d platform games, but also function really well with 3D and VR building.
+So if you wish to make a 2D game, try and look into Unity.
+
+### Writing
+The engines have diffentent coding languages. Where Unreal uses C++, Unity uses C#. C# is generally seen as the easier language of the two for a newbie, but many also point to the benefit of knowing C++, but this is, in the end, up to you.
+What is interesting is the Nodes writing style. Both programs have this, but Unreal was the first to use it. Here it is called Blueprint and it is used to code visually and use less actual coding language. You use nodes that can be moved around and connected through lines. Unity imported at thrid party way of doing the same called Bolt a few years ago.
+So even if writing code from scratch seems a little intmidating, there are a way of making a game without having to know every command. Here many still prefer Unreals Blueprint since it has been around the longest.
+
+### Grafics
+There isn't the biggest difference in the two, especially when beginning and learing the platforms. When put to the test, there is a small grafically lean towards Unreal, especially when it comes to realism. But it is not the biggest of differences, and only become relevant when creating big and grafically impactful games. 
+
+In the end, the decicion is up to you. The best advice would be to look through the links below or find your own, to see which engine you would like to use. We from the lab are also ready to talk about what might be best for your project.
+
+
 #### Links
-https://www.youtube.com/watch?v=OH2sYJw52BQ
-https://www.youtube.com/watch?v=ZG9MF5agh7A
-https://www.youtube.com/watch?v=dphuMHYH_VY
-https://hackr.io/blog/unity-vs-unreal-engine![image](https://user-images.githubusercontent.com/111739605/188424603-ee4a9ac0-db86-4b81-9d23-8ae9a99ad10f.png)
-https://program-ace.com/blog/unity-vs-unreal/![image](https://user-images.githubusercontent.com/111739605/188424632-2c0c8414-d737-450e-bbc0-c390abd3454a.png)
+https://www.youtube.com/watch?v=OH2sYJw52BQ<br/>
+https://www.youtube.com/watch?v=ZG9MF5agh7A<br/>
+https://www.youtube.com/watch?v=dphuMHYH_VY<br/>
+https://hackr.io/blog/unity-vs-unreal-engine![image](https://user-images.githubusercontent.com/111739605/188424603-ee4a9ac0-db86-4b81-9d23-8ae9a99ad10f.png)<br/>
+https://program-ace.com/blog/unity-vs-unreal/![image](https://user-images.githubusercontent.com/111739605/188424632-2c0c8414-d737-450e-bbc0-c390abd3454a.png)<br/>
+https://circuitstream.com/blog/unity-vs-unreal/
 
 
 ## Create your 1st VR project in UNREAL ENGINE 4 
