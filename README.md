@@ -49,6 +49,7 @@ Download setup vive from https://www.vive.com/sea/setup/
 Follow the guide to set up the room and the play boundaries.
 
 When the you are asked to put the cords into the computer, the HDMI and USB port needs to be in these posistions if you are using "glasburet". If they are placed correctly, the system will recognise them and accept the placement, during this part of the setup. 
+
 <img src="https://github.com/DDlabAU/VR-Guide-/blob/main/PICTURE%20VR/Picture%2020.png" width="400" height="400" />
 
 #### Step 3) Steam VR
@@ -70,6 +71,18 @@ Download Unreal Engine 4 from https://www.unrealengine.com/en-US/
 Flowchart of the above steps: 
 
 ![image](https://user-images.githubusercontent.com/46813348/114925797-d6d70780-9e2f-11eb-9168-ab283f66842a.png)
+
+
+## Choosing Unreal engine or Unity
+Choosing whether to use Unreal engine or Unity is a heavily debated subject, but is in the end up to the individual user. The following is a list of reasons to look at one or the other, based on sources linked futher down.  
+
+#### Links
+https://www.youtube.com/watch?v=OH2sYJw52BQ
+https://www.youtube.com/watch?v=ZG9MF5agh7A
+https://www.youtube.com/watch?v=dphuMHYH_VY
+https://hackr.io/blog/unity-vs-unreal-engine![image](https://user-images.githubusercontent.com/111739605/188424603-ee4a9ac0-db86-4b81-9d23-8ae9a99ad10f.png)
+https://program-ace.com/blog/unity-vs-unreal/![image](https://user-images.githubusercontent.com/111739605/188424632-2c0c8414-d737-450e-bbc0-c390abd3454a.png)
+
 
 ## Create your 1st VR project in UNREAL ENGINE 4 
 
