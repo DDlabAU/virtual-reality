@@ -22,7 +22,6 @@
 <table>
   <tr>
     <td  width="50%"><a href="/HTC Vive/"><img src="PICTURE VR/htcvive.jpg" alt="HTC Vive"/></a></td>
-    <td> </td>
   </tr>
   <tr>
   <td> <a href="HTC Vive">Guide til HTC Vive</a> </td>
