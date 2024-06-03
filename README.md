@@ -2,7 +2,7 @@
 # Virtual Reality i DD Lab
 
 ## DD Lab har 2 typer af VR-briller:
-- **Quests** Meta Oculus Quests er VR headsets lavet af Meta og finder i labbet i quest 2 og quest 3. 
+- **Quests** Meta Oculus Quests er VR headsets lavet af Meta og findes i labbet i to udgaver: Quest 2 og Quest 3. 
 - **HTC Vive** HTC Vive er et headset der bruger 2 basestations (sensorer på væggen) inde i glasburet, hvor computeren i glasburet bruges til.
 
 ## Guides
