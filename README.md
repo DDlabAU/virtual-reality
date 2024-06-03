@@ -26,7 +26,6 @@
   </tr>
   <tr>
   <td> <a href="HTC Vive">Guide til HTC Vive</a> </td>
-  <td></td>
   </tr>
 </table>
 
