@@ -10,12 +10,10 @@
 
 <table>
   <tr>
-    <td  width="50%"><a href="/Prusa-Printere/"><img src="Billeder/Prusa_i3_mk3.jpg" alt="Prusa printere"/></a></td>
-    <td><a href="/Ultimaker-Printere/"><img src="Billeder/3DPrint.png" alt="Ultimakerprintere"/></a></td>
+    <td  width="50%"><a href="/Quests/"><img src="PICTURE VR/quest3.jpg" alt="Quests"/></a></td>
   </tr>
   <tr>
-  <td> <a href="/Prusa-Printere/">Guide til Prusa printere</a> </td>
-  <td> <a href="/Ultimaker-Printere/">Guide til Ultimaker printere</a>  </td>
+  <td> <a href="/Quests/">Guide til Meta quests</a> </td>
   </tr>
 </table>
 
