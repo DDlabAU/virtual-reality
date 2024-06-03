@@ -129,4 +129,11 @@ https://docs.unrealengine.com/en-US/Resources/ContentExamples/Blueprints/index.h
 ### What is Blueprints scripts
 The Blueprints Visual Scripting system in Unreal Engine is a complete gameplay scripting system based on the concept of using a node-based interface to create gameplay elements from within Unreal Editor. As with many common scripting languages, it is used to define object-oriented (OO) classes or objects in the engine. As you use UE4, you'll often find that objects defined using Blueprint are colloquially referred to as just "Blueprints". 
 Blueprint-specific markup available in Unreal Engine's C++ implementation enables programmers to create baseline systems   
-Learn more 😊  
+Learn more 😊 
+
+## Optional plugins 
+
+![image](https://user-images.githubusercontent.com/46813348/114923392-0e908000-9e2d-11eb-9f06-7a5eadc5850b.png)
+
+### How to install UE4Duino step by step 
+https://www.youtube.com/watch?v=XvfG56fa_Lk 
