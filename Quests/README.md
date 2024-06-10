@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td  width="50%"><img src="Quests/Pictures/Quest2.jpg" alt="Quests"/></a></td>
-     <td  width="50%"><a href="/HTC Vive/"><img src="PICTURE VR/Quest2.jpg" alt="HTC Vive"/></a></td>
+     <td  width="50%"><a href="/HTC Vive/"><img src="Quests/Pictures/Quest2.jpg" alt="HTC Vive"/></a></td>
   </tr>
   <tr>
 </table>
