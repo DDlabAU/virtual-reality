@@ -9,11 +9,11 @@
  
 
 ## Hvad kan VR
-
+Virtual reality er muligheden for at tage et headset på og enten se en virtuel verden eller en argumentering af vores egen omgivelser. VR kan bygges ved hjælp af forskellige apps eller programmer så som Unity eller Unreal engine. Det kan være interessant at prøve både for egen oplevelse eller som led i udvikling af et produkt eller oplevelse. 
 ## Headsets
 Indenfor Meta Quest serien findes der fire forskellige headsets: Quest 1, 2 og 3, samt et pro headset. I labbbet har vi to slags, nemlig to og tre.
 ### Quest 2
-<td  width="50%"><img src="Quests/Pictures/Quest2.jpg" alt="Quest 2"/></td>
+<td  width="50%"><img src="Pictures/Quest2.jpg" alt="Quest 2"/></td>
 Meta Quest 2 er en standard mange har prøvet. Den indeholder Meta standard indhold og vil derfor kræve et login for at bruge. Det kan enten være Facebook eller med en mail, men vil i sidste ende være sammenkoblet med meta systemet. Den vil være nemmest at bruge og tilgå med Metas tilhørende app.
 
 Quest 2 indeholder:
@@ -41,6 +41,12 @@ Quest 3 kan mere end Quest 2, men det er særligt ved den meget forbedrede passt
 Man skal dog være opmærksom på, at da Quest 3 er nyere, er der ikke lige så stor en database for hjælp online, som der er til Quest 2. 
 
 ## Mest brugte apps og websider
+Der findes mange forskellige app og spil til meta quests som er gode at prøve for at forstå VR og til udvikling i en iterativ proces. 
+### Gratis spil
+Spil til forståelse og første skridt ind i VR er **First hand**, **First contact**, **First steps**, **Elixir** og **First encounter**. Ikke alle disse spil eksisterer til både quest 2 og 3, men man kan tjekke ved at søge i store. 
+Til udvikling af produkter eller scenarier er apps som **gravity sketch** eller **shapesXR** gode. Begge indeholder deres egen introduktion til brug af deres app. 
+### Andre spil
+Et af de mest populære spil til quest er spillet **Beat saber**. Det er ikke gratis desværre, men er et spil hvor målet er at ramme farvekodede kasser til rytmen som de kommer imod spilleren. Det kan minde meget om guitar hero. 
 
 ## Ved returnering
 Når man returnere et headset, uanset hvilken slags vil de håndteret at en medarbejder og vil blive factory reset. 
