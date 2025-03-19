@@ -27,7 +27,7 @@ Quest 2 er god at vælge hvis man ønsker at arbejde med VR, men ikke har et sæ
 Da Quest 2 har været på markedet i længere, er der dog en større database for svar til hjælp til den end til Quest 3.
 
 ### Quest 3
-<td  width="50%"><img src="PICTURE VR/quest3.jpg" alt="Quest 3"/></td>
+<td  width="50%"><img src="Pictures/quest3.jpg" alt="Quest 3"/></td>
 Meta Quest 3 udkom i 2023 og er derfor en nyere model end den ældre Quest 2. Ligesom Quest 2 kræver det et login til Meta, med enten facebook eller en mail og vil i mange tilfælde være nemmest at tilgå med metas app.
 
 Quest 3 indeholder: 
