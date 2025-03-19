@@ -4,7 +4,7 @@
 * Brug ved Unreal Engine
 
 ## Headsettet
-<td  width="50%"><img src="PICTURE VR/htcvive.jpg" alt="HTC Vive"/></td>
+<td  width="50%"><img src="htcvive.jpg" alt="HTC Vive"/></td>
 HTC Vive er et headset der kan lidt mere end quests. Den bruger de to base station for at få en mere præcis lokation og kan derfor inkludere et større spilområde. HTC Vive bruges i glasburet, da computeren skal bruges. Her kan man finde spil på steam, eller man kan udvikle selv ved at bruge Unreal Engine.
 
 Htc vive indeholder:
