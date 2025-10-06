@@ -17,6 +17,11 @@ Skal bruges med computeren i Glasburet.
 HTC Vive er det headset man skal overveje, hvis man er interesseret i at udvikle til noget andet end meta og hvis man gerne vil bruge en stationær computer til at udvikle et program enten i Unreal Engine eller Unity.
 
 
+## Forbind til computer
+Hdmi fra headset'et skal forbindes via følgende port.
+<img src="../PICTURE VR/hdmi.jpg" alt="kabel forbindelse"/></td>
+Det hvide DVI stik fra projektoren skal skiftes ud med det sorte DVI stik som er forbundet til headset'et
+
 
 
 ## Brug ved Unreal Engine
