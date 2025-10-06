@@ -19,7 +19,9 @@ HTC Vive er det headset man skal overveje, hvis man er interesseret i at udvikle
 
 ## Forbind til computer
 Hdmi fra headset'et skal forbindes via følgende port.
-<img src="../PICTURE VR/hdmi.jpg" alt="kabel forbindelse"/></td>
+
+<img src="../PICTURE VR/hdmi.jpg" alt="kabel forbindelse" width="300">
+
 Det hvide DVI stik fra projektoren skal skiftes ud med det sorte DVI stik som er forbundet til headset'et
 
 
